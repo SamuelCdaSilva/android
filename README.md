@@ -5,4 +5,4 @@ Site hospedado: https://samuelcdasilva.github.io/Projeto-Android/android.html
 
 QR Code:
 
-![frame](https://user-images.githubusercontent.com/91702874/148259407-6ce3c403-5070-4242-b1e4-096e01cbe88e.png)
+![frame (redimencionado)](https://user-images.githubusercontent.com/91702874/148260729-761fc72b-6d1e-45f5-b5e0-72b2da5ef5e4.png)
