@@ -27,11 +27,13 @@
 }
 
 .img-segundo {
+    display: auto;
     width: 300px;
     height: 300px;
 }
 
 .img-terceiro {
+    display: auto;
     width: 300px;
     height: 300px;
 }
