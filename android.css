@@ -51,6 +51,7 @@ header > p {
     color: white;
     font-family: var(--fonte-padrao);
     text-align: center;
+    margin-bottom: 30px;
     text-shadow: 3px 2px 0px #00000050;
 }
 
