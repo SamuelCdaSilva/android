@@ -1,5 +1,5 @@
 # Android
-Página sobre Android🤖 | Curso em Vídeo
+Página sobre Android 🤖 | Curso em Vídeo
 
 Projeto realizado com o objetivo de colcocar em prática os conhecimentos adquiridos até o momento do curso.
 
