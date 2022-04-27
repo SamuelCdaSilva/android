@@ -1,9 +1,9 @@
 # Android
 Página sobre Android🤖 | Curso em Vídeo
 
-Site hospedado: https://samuelcdasilva.github.io/Projeto-Android/android.html
-
 Projeto realizado com o objetivo de colcocar em prática os conhecimentos adquiridos até o momento do curso.
+
+Site hospedado: https://samuelcdasilva.github.io/Projeto-Android/android.html
 
 QR Code:
 
