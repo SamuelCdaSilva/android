@@ -8,8 +8,5 @@ Projeto realizado com o objetivo de colcocar em prática os conhecimentos adquir
 QR Code:
 
 
+![cursoemvideo-logo](https://user-images.githubusercontent.com/91702874/165626581-f6601832-a429-4137-b26b-7611201c299d.png)
 
-
-
-
-![Uploading cursoemvideo-logo.png…]()
